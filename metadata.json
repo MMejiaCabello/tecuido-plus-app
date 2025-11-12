@@ -1,0 +1,5 @@
+{
+  "name": "TeCuido+",
+  "description": "An application designed to provide personalized health and wellness product recommendations to pharmacy customers based on their profile and purchase history.",
+  "requestFramePermissions": []
+}
